@@ -10,3 +10,5 @@ Data Visualization Bootcamp - Module 15 Challenge: Mapping
 
 ### Notes
 1. Part 2 is optional
+2. Helpful resources:
+    * Using geoJSON and Leaflet: `https://leafletjs.com/examples/geojson/`
