@@ -71,5 +71,3 @@ function createFeatures(earthquakeData) {
     legend.addTo(eqMap);
 
 }
-
-// function createMap(earthquakes) {}
